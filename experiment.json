@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Characteristics"
+  },
+
+  {
+    "id": 2,
+    "name": "Surgeon Characteristics",
+    "parent" : 1
+  },
+  
+  {
+   	"id": 2,
+    "name": "Trainee Characteristics",
+    "parent" : 1
+  },
+]
